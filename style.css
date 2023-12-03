@@ -1,0 +1,73 @@
+/* style.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #87ceeb;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #87ceeb;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#certifications {
+    margin-top: 30px;
+}
+
+.sertifikat-container {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.sertifikat-container img {
+    max-width: 200px; 
+    margin-right: 20px; 
+}
+
+
+
+body {
+    margin-bottom: 60px; 
+}
